@@ -1,0 +1,4 @@
+# Copy to .dev.vars. Leave empty to use demo lessons.
+MICROCMS_SERVICE_DOMAIN=
+MICROCMS_API_KEY=
+MICROCMS_ENDPOINT=lessons
